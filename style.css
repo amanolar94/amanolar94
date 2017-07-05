@@ -30,10 +30,14 @@ p {
 }
 
 #cv {
-	width: 90%;
-	max-width: 800px;
+	/*for pdf exporting:*/
+	width: 90%; /*comment out this*/
+	max-width: 800px; /*comment out this*/
 	background: #f3f3f3;
-	margin: 30px auto;
+	margin: 30px auto; /*comment out this*/
+	/*add these*/
+	/*size: 7in 9.25in; 
+   	margin: 27mm 16mm 27mm 16mm;*/
 }
 
 .mainDetails {
