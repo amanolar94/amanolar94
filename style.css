@@ -30,10 +30,11 @@ p {
 }
 
 #cv {
-	width: 90%;
+	size: 7in 9.25in;
+   	margin: 27mm 16mm 27mm 16mm;
 	max-width: 800px;
 	background: #f3f3f3;
-	margin: 30px auto;
+	/*margin: 30px auto;*/
 }
 
 .mainDetails {
